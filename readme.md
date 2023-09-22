@@ -43,3 +43,6 @@ A sample dataset as input can be found at http://dolomit.cs.tu-dortmund.de/tudoc
 
 ## 📚 References
 - Richard Durbin: Efficient haplotype matching and storage using the positional Burrows-Wheeler transform (PBWT). Bioinform. 30(9): 1266-1272 (2014)
+
+## Other implementations
+Other ompact data structures for the PBWT  can be found at [dlcgold/rlpbwt](https://github.com/dlcgold/rlpbwt/)
